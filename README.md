@@ -26,3 +26,9 @@ print("Hello world!")
 
 A quote:
 > It's a quote
+
+A task list:
+- [x] Completed task
+- [ ] Incompleted task
+
+An interesting table:
