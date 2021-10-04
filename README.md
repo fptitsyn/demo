@@ -21,10 +21,10 @@ Ordered list:
 
 
 ```python
-print("Hello world!")
+print(eval(input()))
 ```
 
-A quote:
+As wise man once said:
 > It's a quote
 
 A task list:
@@ -32,3 +32,9 @@ A task list:
 - [ ] Incompleted task
 
 An interesting table:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
