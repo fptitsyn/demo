@@ -1,7 +1,7 @@
 # Header 1
 Demo repository
 ## Header 2
-[Google link](google.com)
+[Markdown guide link](https://guides.github.com/features/mastering-markdown/)
 ### Header 3
 *Italic text*
 #### Header 4
